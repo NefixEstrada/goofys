@@ -18,7 +18,7 @@ require (
 	github.com/aws/aws-sdk-go v1.28.9
 	github.com/go-ole/go-ole v1.2.4 // indirect
 	github.com/google/uuid v1.1.1
-	github.com/jacobsa/fuse v0.0.0-00010101000000-000000000000
+	github.com/jacobsa/fuse v0.0.0-20180417054321-cd3959611bcb
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
@@ -29,7 +29,8 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/urfave/cli v1.22.2
+	golang.org/x/net v0.0.0-20190620200207-3b0461eec859 // indirect
 	golang.org/x/sys v0.0.0-20200124204421-9fbb57f87de9
-	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
+	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
 	gopkg.in/ini.v1 v1.51.1
 )
